@@ -10,7 +10,7 @@ As described in this [whitepaper](https://www.okta.com/resources/whitepaper/okta
 
 The samples are organized in top-level strategy categories -
 
-[Bulk Migration](Bulk-Migration/README.md)
+[Bulk Migration](Bulk-Migration)
 
-[Just-in-time Migration](Just-in-time-Migration/README.md)
+[Just-in-time Migration](Just-in-time-Migration)
 
