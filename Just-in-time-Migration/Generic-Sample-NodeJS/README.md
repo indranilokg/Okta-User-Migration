@@ -1,6 +1,8 @@
 # Sample Just-In-Time Migration - Local Store
 
-This sample application leverages a local file based user store. The user name and password combination is stored in a local `users.json` file. The application can be easily adopted to verify aganinst a remote store instead.
+This sample application is based on the steps defined in the [Okta Developer Guide](https://developer.okta.com/docs/guides/password-import-hook/nodejs/overview/).
+
+It leverages a local file based user store. The user name and password combinations are stored in a local `users.json` file. The application can be easily adopted to verify aganinst a remote store instead.
 
 ## Installation
 ```
