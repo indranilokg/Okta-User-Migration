@@ -12,5 +12,5 @@ The samples are organized in top-level strategy categories -
 
 [Bulk Migration](Bulk-Migration/README.md)
 
-[Just-in-time Migration](Just-in-time/README.md)
+[Just-in-time Migration](Just-in-time-Migration/README.md)
 
